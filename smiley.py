@@ -42,7 +42,4 @@ class Smiley:
         self.sense_hat.set_pixels(self.pixels)
 
     def complexion(self):
-        """
-        Returns the complexion of the smiley.
-        """
         return self.my_complexion
